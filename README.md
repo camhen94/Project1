@@ -9,7 +9,7 @@
 -the NFC East appeared to have a weaker than average correlation between wins and turnovers (r = -0.38) 
 -in our isolated NFC East yearly data it appeared the New York Giants demonstrated the weakest correlation between turnovers and wins (r = -0.11)
 -the scatter plot showed the presence of high win & high turnover seasons which went against the general trend of the larger dataset
--
+
 ##Does Passing or Running the ball have an impact on wins/loss of a team?
 In order answer this questions we ran a correlation analysis and compared the total passing yards to wins and losses and the total rushing yards to wins and losses.
 There was a slight positive correlation between passing yards/rush yards to wins which suggests teams that accumulate more passing or rushing yards, have a slightly higher chance to win the game.
