@@ -2,7 +2,7 @@
 
 
 Turnovers Vs Wins Insights:
--reasonably strong negative correlation between wins and number of turnovers across all teams from 2003-2023 (r = -0.79) [aggregated data]
+-reasonably strong negative correlation between wins and number of turnovers across all teams from 2003-2023 (r = -0.79) [aggregated data]\n
 -the max number of wins accumulated from 2003-2023 was 241 by the New England Patriots
 -the max number of turnovers accumulated from 2003-2023 was 601 by the Cleveland Browns
 -the equation for the linear regression ws y=-0.51x+432.16 suggesting that an increase of one turnover was associated with about 1/2 less wins on average
